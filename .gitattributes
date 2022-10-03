@@ -1,1 +1,1 @@
-regularization.tar.gz filter=lfs diff=lfs merge=lfs -tar
+regularization.tar.gz filter=lfs diff=lfs merge=lfs -tar.gz
